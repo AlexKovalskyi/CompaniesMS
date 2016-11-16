@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+<p><b>Problem</b>
+<br>
+You are designing a web application that manages organizational structure for parent and child companies.
+Each company has two properties, they are company name and estimated annual earnings.
+There are two types of companies: 1- Main company, 2 - Subsidiary company.
+The company can belong only to one company but can have a few child companies.
+</p>
+<p><b>Requirements</b></p>
+<ul>
+    <li>The application should allow a user to view/add/edit/delete any company.</li>
+    <li>Company name and estimated earnings should be stored in database.</li>
+    <li>Show companies tree.</li>
+</ul>
+<p>
+    <b>Example:</b>
+    <br>
+    Name | Company Estimated Earnings | Company Estimated Earnings + Child Companies Estimated Earnings
+<p>
+<ul style="padding: 0; list-style-type: none;">
+    <li>-Company1 | 25K$ | 53K$</li>
+    <li>--Company2 | 13K$ | 18K$</li>
+    <li>---Company3 | 5K$</li>
+    <li>--Company4 | 10K$</li>
+</ul>
+<ul>
+    <li>Nesting level is not limited</li>
+    <li>Single page approach should be used.</li>
+    <li>Any solution should demonstrate best practices where appropriate such as SOLID principles.</li>
+</ul>
+<p><b>To be supplied:</b></p>
+<ul>
+    <li>Assessment Code (ideally hosted via something like GitHub)</li>
+    <li>Web application should be deployed and link to the app should be provided</li>
+    <li>Any setup instructions</li>
+    <li>Any database scripts</li>
+</ul>
+

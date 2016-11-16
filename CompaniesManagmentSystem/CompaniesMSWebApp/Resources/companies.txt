@@ -1,0 +1,32 @@
+
+Rank	Company	Revenue Per Second
+1	Wal-Mart Stores	$12,011.64
+2	Exxon Mobil	$11,822.17
+3	Royal Dutch Shell $11,281.77
+4	BP $9,241.44
+5	Toyota Motor $7,299.63
+6	Chevron $6,683.89
+7	ING Group $6,390.03
+8	Total $5,938.61
+9	General Motors $5,782.19
+10	ConocoPhillips $5,662.04
+11	Daimler $5,617.93
+12	General Electric $5,601.73
+13	Ford Motor $5,468.92
+14	Fortis $5,228.22
+15	AXA	Insurance $5,161.15
+16	Sinopec $5,050.10
+17	Citigroup $5,049.12
+18	Volkswagen $4,726.47
+19	Dexia $4,681.89
+20	HSBC $4,645.49
+21	BNP Paribas	 $4,462.39
+22	Allianz	Insurance $4,458.97
+23	Crédit Agricole	Banks $4,380.87
+24	State Grid $4,213.76
+25	China National Petroleum $4,115.87
+26	Deutsche Bank $3,889.02
+27	ENI	Petroleum $3,823.09
+28	Bank of America Corp. $3,779.49
+29	AT&T $3,771.18
+30	Berkshire Hathaway $118,245,000,000

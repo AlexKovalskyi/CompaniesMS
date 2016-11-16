@@ -1,0 +1,10 @@
+@model IList<CompaniesMSWebApp.Models.CompaniesMS.Company>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>@ViewData["Message"]</h1>
+
+@using CompaniesMSWebApp.HtmlHelpers
+@Html.BuildTree(Model.ToArray())
